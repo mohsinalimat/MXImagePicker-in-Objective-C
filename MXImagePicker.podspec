@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "MXImagePicker/**/*"
-  # s.resource      = 'MXKit/MXFoundationPlus/NSDate/DateTools.bundle'
+  s.resource      = 'MXImagePicker/MXImagePicker.storyboard'
   # s.public_header_files = "Classes/**/*.h"
 
 
