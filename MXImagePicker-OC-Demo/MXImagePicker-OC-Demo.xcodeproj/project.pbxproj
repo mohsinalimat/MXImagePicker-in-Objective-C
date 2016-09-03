@@ -13,17 +13,17 @@
 		5C29FAB31D7B109E0053DBBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C29FAB11D7B109E0053DBBD /* Main.storyboard */; };
 		5C29FAB51D7B109E0053DBBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C29FAB41D7B109E0053DBBD /* Assets.xcassets */; };
 		5C29FAB81D7B109E0053DBBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C29FAB61D7B109E0053DBBD /* LaunchScreen.storyboard */; };
-		5C29FB1E1D7B11BF0053DBBD /* MXImagePicker.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5C29FB021D7B11BF0053DBBD /* MXImagePicker.strings */; };
 		5C29FB1F1D7B11BF0053DBBD /* MXAlbumCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C29FB091D7B11BF0053DBBD /* MXAlbumCell.m */; };
 		5C29FB201D7B11BF0053DBBD /* MXAlbumsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C29FB0B1D7B11BF0053DBBD /* MXAlbumsViewController.m */; };
 		5C29FB211D7B11BF0053DBBD /* MXAssetCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C29FB0D1D7B11BF0053DBBD /* MXAssetCell.m */; };
 		5C29FB221D7B11BF0053DBBD /* MXAssetsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C29FB0F1D7B11BF0053DBBD /* MXAssetsViewController.m */; };
 		5C29FB231D7B11BF0053DBBD /* MXCheckmarkView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C29FB111D7B11BF0053DBBD /* MXCheckmarkView.m */; };
-		5C29FB241D7B11BF0053DBBD /* MXImagePicker.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C29FB131D7B11BF0053DBBD /* MXImagePicker.storyboard */; };
 		5C29FB251D7B11BF0053DBBD /* MXImagePickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C29FB151D7B11BF0053DBBD /* MXImagePickerController.m */; };
 		5C29FB261D7B11BF0053DBBD /* MXSlomoIconView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C29FB171D7B11BF0053DBBD /* MXSlomoIconView.m */; };
 		5C29FB271D7B11BF0053DBBD /* MXVideoIconView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C29FB191D7B11BF0053DBBD /* MXVideoIconView.m */; };
 		5C29FB281D7B11BF0053DBBD /* MXVideoIndicatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5C29FB1B1D7B11BF0053DBBD /* MXVideoIndicatorView.m */; };
+		5C49B75B1D7B174100E636D6 /* MXImagePicker.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5C49B7521D7B174100E636D6 /* MXImagePicker.strings */; };
+		5C49B75C1D7B174100E636D6 /* MXImagePicker.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C49B7581D7B174100E636D6 /* MXImagePicker.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,11 +37,6 @@
 		5C29FAB41D7B109E0053DBBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C29FAB71D7B109E0053DBBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C29FAB91D7B109E0053DBBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5C29FB031D7B11BF0053DBBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
-		5C29FB041D7B11BF0053DBBD /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
-		5C29FB051D7B11BF0053DBBD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
-		5C29FB061D7B11BF0053DBBD /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
-		5C29FB071D7B11BF0053DBBD /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
 		5C29FB081D7B11BF0053DBBD /* MXAlbumCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MXAlbumCell.h; sourceTree = "<group>"; };
 		5C29FB091D7B11BF0053DBBD /* MXAlbumCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MXAlbumCell.m; sourceTree = "<group>"; };
 		5C29FB0A1D7B11BF0053DBBD /* MXAlbumsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MXAlbumsViewController.h; sourceTree = "<group>"; };
@@ -53,7 +48,6 @@
 		5C29FB101D7B11BF0053DBBD /* MXCheckmarkView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MXCheckmarkView.h; sourceTree = "<group>"; };
 		5C29FB111D7B11BF0053DBBD /* MXCheckmarkView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MXCheckmarkView.m; sourceTree = "<group>"; };
 		5C29FB121D7B11BF0053DBBD /* MXImagePicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MXImagePicker.h; sourceTree = "<group>"; };
-		5C29FB131D7B11BF0053DBBD /* MXImagePicker.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MXImagePicker.storyboard; sourceTree = "<group>"; };
 		5C29FB141D7B11BF0053DBBD /* MXImagePickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MXImagePickerController.h; sourceTree = "<group>"; };
 		5C29FB151D7B11BF0053DBBD /* MXImagePickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MXImagePickerController.m; sourceTree = "<group>"; };
 		5C29FB161D7B11BF0053DBBD /* MXSlomoIconView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MXSlomoIconView.h; sourceTree = "<group>"; };
@@ -62,8 +56,14 @@
 		5C29FB191D7B11BF0053DBBD /* MXVideoIconView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MXVideoIconView.m; sourceTree = "<group>"; };
 		5C29FB1A1D7B11BF0053DBBD /* MXVideoIndicatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MXVideoIndicatorView.h; sourceTree = "<group>"; };
 		5C29FB1B1D7B11BF0053DBBD /* MXVideoIndicatorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MXVideoIndicatorView.m; sourceTree = "<group>"; };
-		5C29FB1C1D7B11BF0053DBBD /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
-		5C29FB1D1D7B11BF0053DBBD /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/MXImagePicker.strings"; sourceTree = "<group>"; };
+		5C49B7531D7B174100E636D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
+		5C49B7541D7B174100E636D6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
+		5C49B7551D7B174100E636D6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
+		5C49B7561D7B174100E636D6 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
+		5C49B7571D7B174100E636D6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
+		5C49B7581D7B174100E636D6 /* MXImagePicker.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MXImagePicker.storyboard; sourceTree = "<group>"; };
+		5C49B7591D7B174100E636D6 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/MXImagePicker.strings; sourceTree = "<group>"; };
+		5C49B75A1D7B174100E636D6 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/MXImagePicker.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,7 +121,7 @@
 		5C29FB011D7B11BF0053DBBD /* MXImagePicker */ = {
 			isa = PBXGroup;
 			children = (
-				5C29FB021D7B11BF0053DBBD /* MXImagePicker.strings */,
+				5C49B7511D7B174100E636D6 /* Resources */,
 				5C29FB081D7B11BF0053DBBD /* MXAlbumCell.h */,
 				5C29FB091D7B11BF0053DBBD /* MXAlbumCell.m */,
 				5C29FB0A1D7B11BF0053DBBD /* MXAlbumsViewController.h */,
@@ -133,7 +133,6 @@
 				5C29FB101D7B11BF0053DBBD /* MXCheckmarkView.h */,
 				5C29FB111D7B11BF0053DBBD /* MXCheckmarkView.m */,
 				5C29FB121D7B11BF0053DBBD /* MXImagePicker.h */,
-				5C29FB131D7B11BF0053DBBD /* MXImagePicker.storyboard */,
 				5C29FB141D7B11BF0053DBBD /* MXImagePickerController.h */,
 				5C29FB151D7B11BF0053DBBD /* MXImagePickerController.m */,
 				5C29FB161D7B11BF0053DBBD /* MXSlomoIconView.h */,
@@ -145,6 +144,15 @@
 			);
 			name = MXImagePicker;
 			path = ../../MXImagePicker;
+			sourceTree = "<group>";
+		};
+		5C49B7511D7B174100E636D6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5C49B7521D7B174100E636D6 /* MXImagePicker.strings */,
+				5C49B7581D7B174100E636D6 /* MXImagePicker.storyboard */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -209,11 +217,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5C29FB241D7B11BF0053DBBD /* MXImagePicker.storyboard in Resources */,
+				5C49B75C1D7B174100E636D6 /* MXImagePicker.storyboard in Resources */,
 				5C29FAB81D7B109E0053DBBD /* LaunchScreen.storyboard in Resources */,
 				5C29FAB51D7B109E0053DBBD /* Assets.xcassets in Resources */,
 				5C29FAB31D7B109E0053DBBD /* Main.storyboard in Resources */,
-				5C29FB1E1D7B11BF0053DBBD /* MXImagePicker.strings in Resources */,
+				5C49B75B1D7B174100E636D6 /* MXImagePicker.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,16 +266,16 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		5C29FB021D7B11BF0053DBBD /* MXImagePicker.strings */ = {
+		5C49B7521D7B174100E636D6 /* MXImagePicker.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				5C29FB031D7B11BF0053DBBD /* Base */,
-				5C29FB041D7B11BF0053DBBD /* de */,
-				5C29FB051D7B11BF0053DBBD /* en */,
-				5C29FB061D7B11BF0053DBBD /* es */,
-				5C29FB071D7B11BF0053DBBD /* ja */,
-				5C29FB1C1D7B11BF0053DBBD /* pl */,
-				5C29FB1D1D7B11BF0053DBBD /* zh-Hans */,
+				5C49B7531D7B174100E636D6 /* Base */,
+				5C49B7541D7B174100E636D6 /* de */,
+				5C49B7551D7B174100E636D6 /* en */,
+				5C49B7561D7B174100E636D6 /* es */,
+				5C49B7571D7B174100E636D6 /* ja */,
+				5C49B7591D7B174100E636D6 /* pl */,
+				5C49B75A1D7B174100E636D6 /* zh-Hans */,
 			);
 			name = MXImagePicker.strings;
 			sourceTree = "<group>";
@@ -400,6 +408,7 @@
 				5C29FABE1D7B109E0053DBBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
